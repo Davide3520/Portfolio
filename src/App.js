@@ -2,11 +2,9 @@ import logo from './logo.svg';
 import './App.css';
 
 import About from "./components/About";
-import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import ProjectsPage from "./components/ProjectsPage";
 import Skills from "./components/Skills";
-import Testimonials from "./components/Testimonials";
 
 function App() {
   return (
@@ -15,8 +13,6 @@ function App() {
       <About />
       <ProjectsPage />
       <Skills />
-      <Testimonials />
-      <Contact />
     </main>
   );
 }

@@ -29,7 +29,7 @@ export default function Navbar() {
           <FaGithub className="w-9 h-12 ml-1"/>
           </a>
           <div className="flex justify-center">
-          <a href="./Davide Lepri_Resume.pdf" className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg" download>
+          <a href="./Davide Lepri_Resume.pdf" className="inline-flex inherit bg-gray-500 border-0 py-2 px-6 focus:outline-none hover:bg-gray-600 text-white rounded text-lg" download>
             My Resume
           </a>
           </div>

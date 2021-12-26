@@ -1,4 +1,4 @@
-import { ArrowRightIcon } from "@heroicons/react/solid";
+
 import React from "react";
 import { FaLinkedin, FaGithub } from 'react-icons/fa'
 

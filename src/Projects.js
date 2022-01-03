@@ -9,6 +9,13 @@ export const projects = [
     link: "https://blocks-kool.herokuapp.com/home"
   },
   {
+    title: "Goop for men",
+    subtitle: "Luxury, modern lifestyle store for men.",
+    description: "Goop is a luxury e-commerce website. Built using Sequelize models, Express and Node.js. Client UI created using React, Redux was used for state management and redux-thunk with Axios for API calls. Also includes dynamic routing with React-Router-Dom.",
+    image: "./Gop.png",
+    link: "https://mm-grace-shopper.herokuapp.com/home"
+  },
+  {
     title: "myJobs",
     subtitle: "Keep your job search organized.",
     description: "myJobs is an app that helps you keep track of your job applications (e.g. Huntr). You can add as many jobs applications as you want, so that you can stay organized during your job search. Built a REST API using Node.js, Express and Sequelize with Sequelize models. Implemented user login with password encryption and JWT authentication. Client-Side is built using React. Redux is used for state management.",
